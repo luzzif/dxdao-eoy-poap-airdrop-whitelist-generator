@@ -1,0 +1,12 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+/airdrop-data.json
+
+/typechain
+.env
+coverage
+coverage.json
